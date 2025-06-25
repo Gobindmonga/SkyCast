@@ -158,37 +158,6 @@
 
 
 
-<!-- Design -->
-## Design
-
-The design of the main screen is inspired by the [Weather App Freebie](https://www.uplabs.com/posts/weather-app-freebie) concept by [Raman Yv](https://www.uplabs.com/ramandesigns9).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the GPL-3.0 license. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Juan Antonio Buitrago B. - juanantoniobuit@gmail.com
-
-Linkedin: https://www.linkedin.com/in/juan-antonio-buitrago-balsalobre/
-
-Project Link: [https://github.com/JuanAntBuit/WeatherProject](https://github.com/JuanAntBuit/WeatherProject)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-url]: https://github.com/JuanAntBuit/WeatherProject/blob/master/LICENSE
-[product-screenshot]: images/screenshot.png
